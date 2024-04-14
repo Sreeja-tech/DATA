@@ -1,0 +1,10 @@
+1;graph_6.txt;routing_6
+3;graph_6.txt;routing_6
+4;graph_6.txt;routing_6
+0;graph_6.txt;routing_6
+2;graph_6.txt;routing_6
+5;graph_6.txt;routing_6
+7;graph_6.txt;routing_6
+6;graph_6.txt;routing_6
+8;graph_6.txt;routing_6
+10;graph_6.txt;routing_6
